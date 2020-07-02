@@ -1,0 +1,1055 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"Language: cs_CZ\n"
+
+msgid "-Custom Time-"
+msgstr ""
+
+msgid "About"
+msgstr "O aplikaci"
+
+msgid "Active"
+msgstr "Aktivní"
+
+msgid "Add New"
+msgstr "Přidat další"
+
+msgid "Add New Calendar"
+msgstr "Přidat objekt"
+
+msgid "Add New Custom Field"
+msgstr ""
+
+msgid "Add New Employee"
+msgstr "Přidat zaměstnance"
+
+msgid "Add New User"
+msgstr ""
+
+msgid "Add To Managers"
+msgstr "Přidat manažera"
+
+msgid "Add To Viewers"
+msgstr ""
+
+msgid "Addons"
+msgstr "Moduly"
+
+msgid "Admin"
+msgstr ""
+
+msgid "Administration"
+msgstr "Administrace"
+
+msgid "Administrator"
+msgstr ""
+
+msgid "All"
+msgstr "Vše"
+
+msgid "All Calendars"
+msgstr "Všechny objekty"
+
+msgid "All Day"
+msgstr "Celý den"
+
+msgid "All Employees"
+msgstr "Všichni zaměstnanci"
+
+msgid "All Shifts Deleted"
+msgstr "Všechny směny smazány"
+
+msgid "Already Linked To Another Employee"
+msgstr "Již je spojen s jiným zaměstnancem"
+
+msgid "Already Linked To Another User Account"
+msgstr "Již je spojen s jiným uživatelským účtem"
+
+msgid "Apr"
+msgstr ""
+
+msgid "Archive"
+msgstr "Archivovat"
+
+msgid "Archived"
+msgstr "Archivováno"
+
+msgid "Assign"
+msgstr "Přiřadit"
+
+msgid "Assign Employee"
+msgstr "Přiřadit zaměstnance"
+
+msgid "At least one shift type is required for a calendar."
+msgstr ""
+
+msgid "Aug"
+msgstr ""
+
+msgid "Automatically Create Pickup Request For Open Published Shift"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Biweekly"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Break"
+msgstr ""
+
+msgid "Bulk Actions"
+msgstr ""
+
+msgid "Calendar"
+msgstr "Objekt"
+
+msgid "Calendar & Time"
+msgstr ""
+
+msgid "Calendar Archived"
+msgstr "Archiv objekty"
+
+msgid "Calendar Deleted"
+msgstr "Objekt smazán"
+
+msgid "Calendar Overlap"
+msgstr ""
+
+msgid "Calendar Restored"
+msgstr "Objekt obnoven"
+
+msgid "Calendar Updated"
+msgstr "Objekt upraven"
+
+msgid "Calendars"
+msgstr "Objekty"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Cancel Pickup Request"
+msgstr ""
+
+msgid "Cancel Pickup Request For Own Shifts"
+msgstr ""
+
+msgid "Change Employee"
+msgstr "Změna zaměstnance"
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Change Time"
+msgstr "Změna doby"
+
+msgid "Changing time here will not affect existing shifts."
+msgstr ""
+
+msgid "Click one of these links to set it up."
+msgstr "Kliknutím na jeden z těchto odkazů jej nastavíte."
+
+msgid "Color"
+msgstr "Rozlišovač"
+
+msgid "Complete Reinstall"
+msgstr "Kompletní Reinstalace"
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirm Delete"
+msgstr "Potvrďte smazání"
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Conflicts"
+msgstr "KONFLIKT"
+
+msgid "Continue"
+msgstr "Pokračování"
+
+msgid "Create Draft"
+msgstr "Plánovat"
+
+msgid "Create Own Draft Shifts"
+msgstr ""
+
+msgid "Create Own Published Shifts"
+msgstr "Tvořit vlastní veřejné směny"
+
+msgid "Create Own Shifts With Conflicts"
+msgstr ""
+
+msgid "Create Pickup Request For Own Shifts"
+msgstr ""
+
+msgid "Create Published"
+msgstr "Zveřejnit"
+
+msgid "Current Time"
+msgstr "Aktuální čas"
+
+msgid "Custom Field Deleted"
+msgstr ""
+
+msgid "Custom Field Updated"
+msgstr ""
+
+msgid "Custom Fields"
+msgstr ""
+
+msgid "Custom Time"
+msgstr "Vlastní doba"
+
+msgid "Daily"
+msgstr ""
+
+msgid "Database Error"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date Format"
+msgstr "Formát data"
+
+msgid "Date and Time"
+msgstr "Datum a čas"
+
+msgid "Dates"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Days"
+msgstr "Dny"
+
+msgid "Days Of Week Disabled"
+msgstr "Vypnout tyto dny v týdnu"
+
+msgid "Dec"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Delete"
+msgstr "Smazat"
+
+msgid "Delete All Shifts"
+msgstr "Smazat všechny směny"
+
+msgid "Description"
+msgstr "Popis činností na objektu"
+
+msgid "Disable"
+msgstr ""
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Download"
+msgstr "Stáhnout"
+
+msgid "Draft"
+msgstr "Návrh"
+
+msgid "Draft Shift Created"
+msgstr ""
+
+msgid "Drop Down"
+msgstr ""
+
+msgid "Dropdown Options"
+msgstr ""
+
+msgid "Edit"
+msgstr "Upravit"
+
+msgid "Edit Custom Field"
+msgstr ""
+
+msgid "Email"
+msgstr "e-mail"
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Email Format"
+msgstr ""
+
+msgid "Email Sent To"
+msgstr "odeslán e-mail na "
+
+msgid "Employee"
+msgstr "Zaměstnanec"
+
+msgid "Employee Archived"
+msgstr ""
+
+msgid "Employee Can Edit In Own Shifts"
+msgstr ""
+
+msgid "Employee Can View In Others Shifts"
+msgstr ""
+
+msgid "Employee Can View In Own Shifts"
+msgstr ""
+
+msgid "Employee Changed"
+msgstr ""
+
+msgid "Employee Deleted"
+msgstr ""
+
+msgid "Employee Linked To User Account"
+msgstr "Zaměstnanec spojen s uživatelským účtem"
+
+msgid "Employee Restored"
+msgstr ""
+
+msgid "Employee Unassigned"
+msgstr ""
+
+msgid "Employee Unlinked From User Account"
+msgstr "Zaměstnanec odpojen od uživatelského účtu"
+
+msgid "Employee Updated"
+msgstr ""
+
+msgid "Employees"
+msgstr "Zaměstnanci"
+
+msgid "Enable"
+msgstr ""
+
+msgid "End Time"
+msgstr ""
+
+msgid "Enter a simple string of numbers separated by commas. Positive numbers denote work days, negative numbers denote off days."
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Every 2 Weeks"
+msgstr ""
+
+msgid "Every 3 Weeks"
+msgstr ""
+
+msgid "Every 4 Weeks"
+msgstr ""
+
+msgid "Everyone Schedule"
+msgstr ""
+
+msgid "Feb"
+msgstr ""
+
+msgid "Filter"
+msgstr "Filtr"
+
+msgid "Fri"
+msgstr "Pá"
+
+msgid "From Date"
+msgstr ""
+
+msgid "Full Day Counts As"
+msgstr "Celý den zobrazovat jako"
+
+msgid "Get New Password"
+msgstr ""
+
+msgid "Group By"
+msgstr "Řazení dle"
+
+msgid "Here is the automatic CSV feed of the shifts that can be used with other 3rd party applications."
+msgstr ""
+
+msgid "Hide Hours Reports In Schedule View"
+msgstr ""
+
+msgid "Holidays"
+msgstr "Svátky"
+
+msgid "Hours"
+msgstr "Hodiny"
+
+msgid "How Many"
+msgstr ""
+
+msgid "Import WordPress Users"
+msgstr ""
+
+msgid "Import WordPress Users As Employees"
+msgstr ""
+
+msgid "Inside your Google Calendar open the Other Calendars menu in the left sidebar and select the Add by URL option. Paste one of these links then click the Add Calendar button. This will automatically add your shifts to Google Calendar."
+msgstr ""
+
+msgid "Is Manager"
+msgstr "Je manažer"
+
+msgid "Is Viewer"
+msgstr ""
+
+msgid "Jan"
+msgstr ""
+
+msgid "Jul"
+msgstr ""
+
+msgid "Jun"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Link Employee To User Account"
+msgstr "Spojit zaměstnance s uživatelským účtem"
+
+msgid "Link To Employee"
+msgstr "Spojit se zaměstnancem"
+
+msgid "Link To This Employee"
+msgstr "Spojit na tohoto zaměstnance"
+
+msgid "Link To This User Account"
+msgstr "Spojit na tohoto uživatele čtu"
+
+msgid "Link To User Account"
+msgstr "Spojit s uživatelským účtem"
+
+msgid "Linked Employee"
+msgstr "Spojený zaměstnanec"
+
+msgid "Linked User Account"
+msgstr "Spojený účet uživatele"
+
+msgid "List"
+msgstr "Seznam"
+
+msgid "Local Applications"
+msgstr "Lokální aplikace"
+
+msgid "Logged In"
+msgstr ""
+
+msgid "Logged Out"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Lost Your Password?"
+msgstr ""
+
+msgid "Lunch Break"
+msgstr "Přestávka na jídlo"
+
+msgid "Lunch break should be within shift hours."
+msgstr ""
+
+msgid "Make sure you change it after first login!"
+msgstr ""
+
+msgid "Managed Calendars"
+msgstr "Spravované objekty"
+
+msgid "Manager"
+msgstr "Manažer"
+
+msgid "Manager Added To Calendar"
+msgstr "Manažer přidán do objektu"
+
+msgid "Manager Removed From Calendar"
+msgstr "Manažer odebrán z objektu"
+
+msgid "Managers"
+msgstr "Manažeři"
+
+msgid "Mar"
+msgstr ""
+
+msgid "Max"
+msgstr ""
+
+msgid "Max End Time"
+msgstr ""
+
+msgid "Max value should not be less than min value"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Message Sent"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "Min Start Time"
+msgstr ""
+
+msgid "Mon"
+msgstr "Po"
+
+msgid "Month"
+msgstr "Měsíc"
+
+msgid "More"
+msgstr "Další"
+
+msgid "More Calendars"
+msgstr "Další objekty"
+
+msgid "More Employees"
+msgstr "Další zaměstnanci"
+
+msgid "My Roles"
+msgstr "Moje role"
+
+msgid "My Schedule"
+msgstr "Můj rozpis"
+
+msgid "N/A"
+msgstr ""
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "New Calendar Added"
+msgstr "Další objekt přidán"
+
+msgid "New Created"
+msgstr "Nové vytvořeno"
+
+msgid "New Custom Field Added"
+msgstr ""
+
+msgid "New Employee Added"
+msgstr "Zaměstnanec přidán"
+
+msgid "New Password"
+msgstr ""
+
+msgid "New Shift Type Added"
+msgstr "Typ směny přidán"
+
+msgid "New User Added"
+msgstr ""
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No Availability"
+msgstr ""
+
+msgid "No Available Employees"
+msgstr "Nejsou žádní zaměstnanci k přiřazení"
+
+msgid "No Available Time"
+msgstr ""
+
+msgid "None"
+msgstr "Nic"
+
+msgid "Notes"
+msgstr "Poznámky"
+
+msgid "Notification"
+msgstr "Upozornění"
+
+msgid "Notification Disabled"
+msgstr "Upozornění vypnuto"
+
+msgid "Notification Enabled"
+msgstr "Upozornění zapnuto"
+
+msgid "Notification Updated"
+msgstr "Upozornění upraveno"
+
+msgid "Notifications"
+msgstr "Upozornění"
+
+msgid "Notifications Turned Off"
+msgstr "Upozornění jsou vypnuta"
+
+msgid "Notifications Turned On"
+msgstr "Upozornění jsou zapnuta"
+
+msgid "Nov"
+msgstr ""
+
+msgid "Number Of Shifts"
+msgstr "Počet směn"
+
+msgid "Oct"
+msgstr ""
+
+msgid "One option per line."
+msgstr ""
+
+msgid "Online Services"
+msgstr "OnLine služby"
+
+msgid "Open Shift"
+msgstr "Nepřiřazeno"
+
+msgid "Open Shifts"
+msgstr "Nepřiřazeno"
+
+msgid "Or"
+msgstr ""
+
+msgid "Other Employees"
+msgstr ""
+
+msgid "Overlap"
+msgstr "Překrytí"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password Reset Information Sent To Your Email"
+msgstr ""
+
+msgid "Password Reset Link"
+msgstr ""
+
+msgid "Password Updated"
+msgstr ""
+
+msgid "Passwords Differ"
+msgstr ""
+
+msgid "Permissions"
+msgstr "Oprávnění"
+
+msgid "Pick Dates By Hand"
+msgstr ""
+
+msgid "Pick Up Others Shifts"
+msgstr ""
+
+msgid "Pickup"
+msgstr ""
+
+msgid "Pickup Request"
+msgstr ""
+
+msgid "Pickup Request Cancelled"
+msgstr ""
+
+msgid "Pickup Request Created"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Please note that shifts do not sync immediately. It could take up to 12 hours for your shifts to show up (according to Google support website)."
+msgstr ""
+
+msgid "Please note that your current data will be overwritten."
+msgstr ""
+
+msgid "Print"
+msgstr "Tisk"
+
+msgid "Proceed To Upgrade"
+msgstr ""
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile Updated"
+msgstr ""
+
+msgid "Publish"
+msgstr "Veřejné"
+
+msgid "Published"
+msgstr "Zveřejněno"
+
+msgid "Reinstall"
+msgstr "Reinstalace"
+
+msgid "Reinstalled"
+msgstr "Reinstalováno"
+
+msgid "Remove From Managers"
+msgstr "Odebrat z manažerů"
+
+msgid "Remove From Viewers"
+msgstr ""
+
+msgid "Repeat"
+msgstr ""
+
+msgid "Repeat Type"
+msgstr ""
+
+msgid "Report"
+msgstr ""
+
+msgid "Request Pickup"
+msgstr ""
+
+msgid "Required Field"
+msgstr ""
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "Reset To Defaults"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "Sat"
+msgstr "So"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Schedule"
+msgstr "Směny"
+
+msgid "Select"
+msgstr "Výběr"
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select Date"
+msgstr "Výběr data"
+
+msgid "Select Dates"
+msgstr "Vybrat datumy"
+
+msgid "Select End Date"
+msgstr "Vybrat konečné datum"
+
+msgid "Select Start Date"
+msgstr "Vybrat počáteční datum"
+
+msgid "Select a date"
+msgstr ""
+
+msgid "Select an employee"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send Email From Address"
+msgstr ""
+
+msgid "Send Email From Name"
+msgstr ""
+
+msgid "Send Test Email"
+msgstr ""
+
+msgid "Sep"
+msgstr ""
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Settings Updated"
+msgstr "Nastavení upravena"
+
+msgid "Shift"
+msgstr "Směna"
+
+msgid "Shift Deleted"
+msgstr "Směna smazána"
+
+msgid "Shift Picked Up"
+msgstr ""
+
+msgid "Shift Pickup Request"
+msgstr ""
+
+msgid "Shift Pickup Request Cancelled"
+msgstr ""
+
+msgid "Shift Pickup Request Recorded"
+msgstr ""
+
+msgid "Shift Published"
+msgstr "Směna zveřejněna"
+
+msgid "Shift Rescheduled"
+msgstr ""
+
+msgid "Shift Type Deleted"
+msgstr ""
+
+msgid "Shift Type Updated"
+msgstr ""
+
+msgid "Shift Types"
+msgstr "Výběr směn"
+
+msgid "Shift Unpublished"
+msgstr "Směna neveřejná"
+
+msgid "Shift Updated"
+msgstr ""
+
+msgid "Shifts"
+msgstr ""
+
+msgid "Shifts Feed"
+msgstr ""
+
+msgid "Show In Calendar"
+msgstr ""
+
+msgid "Show Shift Type Title In Calendar"
+msgstr "Zobrazit typ směny v kalendáři"
+
+msgid "Skip Notifications"
+msgstr "Neposílat upozornění"
+
+msgid "Start Time"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Subject"
+msgstr "Předmět"
+
+msgid "Sun"
+msgstr "Ne"
+
+msgid "Template Tags"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Textarea"
+msgstr ""
+
+msgid "This operation cannot be undone."
+msgstr ""
+
+msgid "This value is already used"
+msgstr "Tato hodnota je již použita. Zkuste jinou variantu."
+
+msgid "This will not affect existing shifts."
+msgstr "Bez dopadu na existující směny."
+
+msgid "Thu"
+msgstr "Čt"
+
+msgid "Time"
+msgstr "Doba"
+
+msgid "Time Format"
+msgstr "Formát času"
+
+msgid "Time Off"
+msgstr "Volno"
+
+msgid "Timeoff"
+msgstr ""
+
+msgid "Timezone"
+msgstr "Časová zóna"
+
+msgid "Title"
+msgstr "Název"
+
+msgid "To Date"
+msgstr ""
+
+msgid "Toggle All"
+msgstr ""
+
+msgid "Toggle Selected"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Tue"
+msgstr "Út"
+
+msgid "Turn Off Notifications"
+msgstr "Vypnout notifikace"
+
+msgid "Turn On"
+msgstr "Zapnout"
+
+msgid "Type"
+msgstr ""
+
+msgid "Unassign"
+msgstr "Odvolat"
+
+msgid "Unlink"
+msgstr "Rozpojit"
+
+msgid "Unpublish"
+msgstr "Neveřejné"
+
+msgid "Until"
+msgstr ""
+
+msgid "Upgrade From 3.x"
+msgstr ""
+
+msgid "Upgraded"
+msgstr ""
+
+msgid "User"
+msgstr "Uživatel"
+
+msgid "User Deleted"
+msgstr ""
+
+msgid "User Updated"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Users"
+msgstr "Uživatelé"
+
+msgid "Version"
+msgstr "Verze"
+
+msgid "View"
+msgstr "Zobrazení"
+
+msgid "View Conflicts"
+msgstr ""
+
+msgid "View Open Draft Shifts"
+msgstr ""
+
+msgid "View Open Published Shifts"
+msgstr "Zobrazit nepřiřazené veřejné směny"
+
+msgid "View Others Draft Shifts"
+msgstr ""
+
+msgid "View Others Published Shifts"
+msgstr "Ukázat ostatní veřejné směny"
+
+msgid "View Own Draft Shifts"
+msgstr ""
+
+msgid "View Own Published Shifts"
+msgstr "Ukázat vlastní veřejné směny"
+
+msgid "Viewer Added To Calendar"
+msgstr ""
+
+msgid "Viewer Removed From Calendar"
+msgstr ""
+
+msgid "Viewers"
+msgstr ""
+
+msgid "Visitor"
+msgstr "Neregistrovaný"
+
+msgid "Visitor Can View"
+msgstr ""
+
+msgid "Wed"
+msgstr "St"
+
+msgid "Week"
+msgstr "Týden"
+
+msgid "Week Starts On"
+msgstr "Týden začíná"
+
+msgid "Weekly"
+msgstr ""
+
+msgid "When a calendar is deleted, all its data and information is permanently removed."
+msgstr ""
+
+msgid "When an employee is deleted, all their data and information is permanently removed."
+msgstr ""
+
+msgid "WordPress User Role"
+msgstr ""
+
+msgid "Work 1 day, off 3 days"
+msgstr ""
+
+msgid "Work 3 days, off 2 days, work 4 days, off 1 day"
+msgstr ""
+
+msgid "Wrong Email"
+msgstr ""
+
+msgid "Wrong Link"
+msgstr ""
+
+msgid "Wrong Username Or Password"
+msgstr ""
+
+msgid "X Days On / Y Days Off"
+msgstr ""
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "You can automatically export your shifts to other 3rd party applications with the iCal feed option."
+msgstr ""
+
+msgid "You cannot create new shifts with conflicts."
+msgstr ""
+
+msgid "iCal Sync"
+msgstr ""
+
